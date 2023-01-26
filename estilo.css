@@ -4,6 +4,25 @@
 
 .logo {
     width: 35%;
-    height: 35%;
+    height: auto;
     padding: 0;
+    position: relative;
+    display: flex;
+    left: 80%;
+    height: auto;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.cent {
+    margin-left: 10px;
+}
+.flex {
+    display: flex;
+}
+.user {
+    left: 0;
+}
+
